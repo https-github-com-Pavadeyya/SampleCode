@@ -9,3 +9,8 @@ class A{
       int b = 20;
       }
       
+class B{
+      int c = 30;
+      int d = 40;
+      }
+      
