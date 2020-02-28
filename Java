@@ -1,0 +1,6 @@
+class Test{
+      public static void main(main arg[]){
+      system.out.println("Hello World");
+      }
+      }
+      
